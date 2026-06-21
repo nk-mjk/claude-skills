@@ -1,3 +1,5 @@
+![claude-skills](claude-skills-title.jpg)
+
 # 🏗️ Skill Pipeline for Claude Cowork
 
 > Claude Cowork 스킬을 **설계 → 제작 → 리뷰 → 최적화** 까지 체계적으로 만들 수 있는 스킬 파이프라인
